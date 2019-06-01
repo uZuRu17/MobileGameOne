@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "68e562a5-dd9e-4af6-88fb-451d30458706",
+            "Value": {
+                "id": "86b60466-1e16-4c1e-ab43-53dacd53ae7a",
+                "resourcePath": "sprites\\Touch_spr1\\Touch_spr1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6c272a64-f651-444c-b23a-18efbdaff226",
             "Value": {
                 "id": "4f60d5e2-a3c8-4331-a089-fbd2eaffa15c",
@@ -331,6 +339,14 @@
             "Value": {
                 "id": "d5776e0d-c6b9-49be-a8a6-d7af14bc4e34",
                 "resourcePath": "sprites\\Touch_spr\\Touch_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "74192a3b-fc6b-4b6a-b0f6-6e609a42e7eb",
+            "Value": {
+                "id": "ad64c5c5-5eef-4bed-a56d-debffb2f49b1",
+                "resourcePath": "sprites\\Lock_spr1\\Lock_spr1.yy",
                 "resourceType": "GMSprite"
             }
         },
