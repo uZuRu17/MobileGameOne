@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "68e562a5-dd9e-4af6-88fb-451d30458706",
+            "Value": {
+                "id": "86b60466-1e16-4c1e-ab43-53dacd53ae7a",
+                "resourcePath": "sprites\\Touch_spr1\\Touch_spr1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6c272a64-f651-444c-b23a-18efbdaff226",
             "Value": {
                 "id": "4f60d5e2-a3c8-4331-a089-fbd2eaffa15c",
