@@ -1,16 +1,14 @@
 {
     "id": "1c10cfb8-de02-4901-994b-55713181a5be",
     "modelName": "GMFont",
-    "mvc": "1.1",
+    "mvc": "1.0",
     "name": "ScoreFont",
     "AntiAlias": 0,
     "TTFName": "",
-    "ascenderOffset": 0,
     "bold": false,
     "charset": 0,
     "first": 0,
     "fontName": "Lato",
-    "glyphOperations": 0,
     "glyphs": [
         {
             "Key": 32,
@@ -1438,9 +1436,8 @@
             }
         }
     ],
-    "hinting": 0,
+    "image": null,
     "includeTTF": false,
-    "interpreter": 0,
     "italic": false,
     "kerningPairs": [
         {
@@ -16525,8 +16522,6 @@
         }
     ],
     "last": 0,
-    "maintainGms1Font": false,
-    "pointRounding": 0,
     "ranges": [
         {
             "x": 32,
